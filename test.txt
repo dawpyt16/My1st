@@ -1,0 +1,36 @@
+Kupione:
+Herbata, Gotówka: 1.8 | 
+Kupione:
+Redbull, Black, Gotówka: 7.5 | 
+Kupione:
+Redbull, Black, Gotówka: 7.5 | Black, Gotówka: 2.5 | 
+Kupione:
+Black, Gotówka: 2.5 | 
+Kupione:
+Redbull, Karta: 5.0 |1| 
+Kupione:
+Redbull, Gotówka: 5.0 |1| 
+Kupione:
+Redbull, Gotówka: 5.0 |1| Black, Gotówka: 2.5 |2| 
+Kupione:
+Redbull, Gotówka: 5.0 |1| Black, Gotówka: 2.5 |2|  ANULOWANO 
+Kupione:
+Redbull, Gotówka: 5.0 |1| 
+Kupione:
+Redbull, Gotówka: 5.0 |1| Herbata, Karta: 1.8 |2| 
+Kupione:
+Pepsi, Gotówka: 2.0 |1| 
+Kupione:
+Pepsi, Gotówka: 2.0 |1| Redbull, Karta: 5.0 |2| 
+Kupione:
+Pepsi, Gotówka: 2.0 |1| Redbull, Karta: 5.0 |2| Redbull,  ANULOWANO 
+Kupione:
+Pepsi,  ANULOWANO 
+Kupione:
+Pepsi,  ANULOWANO Redbull, Gotówka: 5.0 |1| 
+Kupione:
+Pepsi,  ANULOWANO Redbull, Gotówka: 5.0 |1| Redbull, Karta: 5.0 |2| 
+Kupione:
+Pepsi,  ANULOWANO Redbull, Gotówka: 5.0 |1| Redbull, Karta: 5.0 |2| Redbull,  ANULOWANO 
+Kupione:
+Pepsi, Gotówka: 2.0 |1| 
