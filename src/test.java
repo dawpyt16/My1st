@@ -422,7 +422,7 @@ public class test {
     private void save()
             throws IOException {
         BufferedWriter writer;
-        writer = new BufferedWriter(new FileWriter("test.txt", true));
+        writer = new BufferedWriter(new FileWriter("List.txt", true));
         writer.write("Kupione:");
         writer.newLine();
         writer.append(items);
